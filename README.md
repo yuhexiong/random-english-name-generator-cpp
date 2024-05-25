@@ -2,10 +2,10 @@
 
 Generate English names randomly, including first name, middle name, and last name.
 
-## Version
+## Overview
 
-- C++ v11
-- g++ v13.1.0
+- Language: C++
+- Compiler: G++ v13.1.0
 
 ## Build
 
